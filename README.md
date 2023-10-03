@@ -9,8 +9,8 @@ Currently, two official plugins are available:
 
 FizzBuzz Counter is an application where
 
--if the number is a multiple of 5, the application will display Fizz,
--if the number is a multiple of 7, the application will display Buzz, and
+-if the number is a multiple of 5, the application will display Fizz, <br />
+-if the number is a multiple of 7, the application will display Buzz, and <br />
 -if the number is a multiple of 5 and 7, the application will display FizzBuzz.
 
 This application also has an increase button to add values ​​and a reset to reset the values. The purpose of creating this application is to know how to store data in state, know how to change data in state, use data in state to display the UI, and know how to handle events in components.
